@@ -35,7 +35,7 @@ A shell script for automatically cleaning up old files from specified directorie
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/[your-username]/[repo-name]/main/cleanup_old_files.sh
+curl -O https://raw.githubusercontent.com/ngc-shj/macos-file-cleanup/main/cleanup_old_files.sh
 
 # Make executable
 chmod +x cleanup_old_files.sh
